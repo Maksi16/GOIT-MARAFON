@@ -1,0 +1,197 @@
+body {
+  font-family: 'montserrat', sans-serif;
+  background-color: #f5f7fa;
+}
+/*правая сторона*/
+/*about-me*/
+.about-me-professions {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin: 0 0 20px 0;
+}
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #ffffff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.about-me {
+  margin: 0 0 40px 0;
+}
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  margin: 0 0 25px 0;
+}
+.about-me-text {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.main-content {
+  padding: 100px 90px;
+}
+/*проекты*/
+.my-prodjects {
+  margin: 0 0 50px 0;
+}
+.h3-style {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: black;
+  margin-bottom: 10px;
+}
+.my-prodjects-list {
+  padding: 0 0 0 17px;
+}
+.my-prodjects-item {
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+}
+.my-prodjects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-prodjects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-prodjects-bracet {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+/*my-work*/
+.my-work-blok-company {
+  margin: 0 0 15px 0;
+}
+.my-company {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.my-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: black;
+  margin: 0 0 10px 0;
+}
+.my-work-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+.my-work-period-devil {
+  color: #000000;
+}
+.my-work-duties {
+  padding: 0 0 0 18px;
+}
+.my-work-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+/*Образование*/
+.my-university {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin: 0 0 10px 0;
+}
+.my-university-special {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 10px 0;
+}
+/*левая сторона*/
+.sidebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+img {
+  width: 354px;
+}
+.contact-section,
+.Tech-skills {
+  margin: 50px 0 0 40px;
+}
+.sidebar-h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+/*стили для контактов*/
+.contact-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 5px;
+}
+.contact-section-link {
+  color: #565e5a;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.skills-list {
+  padding: 0 0 0 17px;
+}
+.skills-list-item {
+  color: #fb6d3a;
+}
+.skills-list-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.Soft-skills {
+  margin: 45px 0 0 40px;
+}
